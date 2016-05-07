@@ -1,0 +1,15 @@
+2016-05-07 07:36:27,712 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.enter:func:0.0.1-SNAPSHOT @ C:\Users\Karthikeyan\gitprojects\func\pom.xml.
+2016-05-07 07:36:27,712 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.enter:func:0.0.1-SNAPSHOT @ C:\Users\Karthikeyan\gitprojects\func\pom.xml.
+2016-05-07 07:36:36,012 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 07:36:36,014 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Karthikeyan\gitprojects\func\src\main\resources
+2016-05-07 07:36:36,182 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 07:36:36,184 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Karthikeyan\gitprojects\func\src\test\resources
+2016-05-07 07:36:41,971 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.enter:func:0.0.1-SNAPSHOT @ C:\Users\Karthikeyan\gitprojects\func\pom.xml.
+2016-05-07 07:36:41,994 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 07:36:41,995 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Karthikeyan\gitprojects\func\src\main\resources
+2016-05-07 07:36:41,998 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 07:36:42,000 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Karthikeyan\gitprojects\func\src\test\resources
+2016-05-07 07:36:45,803 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 07:36:45,804 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Karthikeyan\gitprojects\func\src\main\resources
+2016-05-07 07:36:45,806 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-07 07:36:45,807 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Karthikeyan\gitprojects\func\src\test\resources
