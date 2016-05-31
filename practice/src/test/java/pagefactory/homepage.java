@@ -33,15 +33,19 @@ public class homepage {
 	
 	public homepage clickonrenttab(){
 		System.out.println("HELLO");
-		JavascriptExecutor js = (JavascriptExecutor)driver;
+		System.out.println(driver.getCurrentUrl());
+		/*JavascriptExecutor js = (JavascriptExecutor)driver;
 		String sText =  js.executeScript("return document.title;").toString();
 		System.out.println("?88888888888888888888888888888888888888888");
 		System.out.println(sText);
-		System.out.println("?88888888888888888888888888888888888888888");
+		System.out.println("?88888888888888888888888888888888888888888");*/
 		
 		renttab=driver.findElement(By.xpath(".//*[@id='primary-nav']/ul/li[1]/div/div[1]"));
+		System.out.println("element found");
 		renttab.isDisplayed();
+		System.out.println("displayed");
 		renttab.click();
+		System.out.println("clicked");
 		renttabdropdown.isDisplayed();
 		return new homepage(driver);
 	
